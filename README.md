@@ -4,12 +4,5 @@
 </h2>
 &nbsp;
 
- > A lover, not a fighter. 
+ > A lover, not a fighter. :warning: Not to mock or make light of any war that's happening now or ever.
 
-## Table of Contents
-* [Pictures](#-image)
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [BOM](#bom)
