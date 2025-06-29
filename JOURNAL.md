@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "F-22 Raptor with transmitter"
 created_at: "2025-06-27"
 ---
-### :revolving_hearts: Total Time Spent: 20hrs
+### :revolving_hearts: Total Time Spent: 26hrs
 June 27, 2025
 ---
 *LOG #001:*
@@ -57,3 +57,15 @@ it's time for 3d design D:
 ![Screenshot 2025-06-28 at 10 10 44 PM](https://github.com/user-attachments/assets/41c533f0-30c2-46e6-9ecc-81a63b46423f)
 
 TIME SPENT: 12 HOURS
+
+June 29, 2025
+---
+*LOG #003:*
+
+![Screenshot 2025-06-29 at 10 56 49 AM](https://github.com/user-attachments/assets/40cf66a8-13f2-4541-a86a-ff7d25c8d3fc)
+![Screenshot 2025-06-29 at 1 25 49 PM](https://github.com/user-attachments/assets/a4512fbc-86c2-4f43-95f2-2b4248fd3698)
+<img width="828" alt="Screenshot 2025-06-29 at 1 25 40 PM" src="https://github.com/user-attachments/assets/d01aa110-2355-4f41-96f1-5bd34c97f2cf" />
+![Screenshot 2025-06-29 at 1 53 24 PM](https://github.com/user-attachments/assets/819bbf01-1b4e-43f3-b1dc-c0ded01636a7)
+
+
+TIME SPENT: 6 HOURS
