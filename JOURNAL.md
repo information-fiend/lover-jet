@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "F-22 Raptor with transmitter"
 created_at: "2025-06-27"
 ---
-### :revolving_hearts: Total Time Spent: 8hrs
+### :revolving_hearts: Total Time Spent: 20hrs
 June 27, 2025
 ---
 *LOG #001:*
@@ -39,6 +39,16 @@ June 28, 2025
 ---
 *LOG #002:*
 start time: 4:30am. had a psychosic vision on this and got to work
+okay i'm back and it's the next morning bc i fell asleep. never slept so deeply before lol. i finished around 10pm, i cut a couple hours from the time for humans needs. 
+i started wrapping up the wiring diagram for the plane, then i moved to pcb making, my second worst nightmare (first is fusion360). i was still new to pcb making so it took a long time for me to realize i don't need the exact footprint, just a connector a name the pins. god bless grabcad for the 3d models. i learned the wonders of a grandpour so wiring didn't take much time. had to update my parts: 
+* 7.4v 450mah li-po battery
+* XY axis joystick
+* Arduino nano v3.0
+* NRF24L01 + PA
+* Single Pole Single Throw (SPST) Switch
+* EC11 rotary encoder
+
+it's time for 3d design D:
 
 ![Screenshot 2025-06-28 at 10 38 31 PM](https://github.com/user-attachments/assets/1237dddd-dd8f-44bc-b3a6-819ca65bde67)
 ![Screenshot 2025-06-28 at 10 38 19 PM](https://github.com/user-attachments/assets/62f70cd3-cf61-452d-817d-04cb26996e47)
@@ -46,6 +56,4 @@ start time: 4:30am. had a psychosic vision on this and got to work
 ![Screenshot 2025-06-28 at 10 10 58 PM](https://github.com/user-attachments/assets/13da106f-c72a-429a-a555-096fd42d53ff)
 ![Screenshot 2025-06-28 at 10 10 44 PM](https://github.com/user-attachments/assets/41c533f0-30c2-46e6-9ecc-81a63b46423f)
 
-
-
-TIME SPENT: ? HOURS
+TIME SPENT: 12 HOURS
