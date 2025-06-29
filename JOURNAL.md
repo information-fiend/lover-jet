@@ -40,4 +40,12 @@ June 28, 2025
 *LOG #002:*
 start time: 4:30am. had a psychosic vision on this and got to work
 
+![Screenshot 2025-06-28 at 10 38 31 PM](https://github.com/user-attachments/assets/1237dddd-dd8f-44bc-b3a6-819ca65bde67)
+![Screenshot 2025-06-28 at 10 38 19 PM](https://github.com/user-attachments/assets/62f70cd3-cf61-452d-817d-04cb26996e47)
+<img width="731" alt="Screenshot 2025-06-28 at 10 11 05 PM" src="https://github.com/user-attachments/assets/51fd4e5f-8b61-4ad4-b3da-af057c363622" />
+![Screenshot 2025-06-28 at 10 10 58 PM](https://github.com/user-attachments/assets/13da106f-c72a-429a-a555-096fd42d53ff)
+![Screenshot 2025-06-28 at 10 10 44 PM](https://github.com/user-attachments/assets/41c533f0-30c2-46e6-9ecc-81a63b46423f)
+
+
+
 TIME SPENT: ? HOURS
