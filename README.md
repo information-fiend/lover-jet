@@ -3,8 +3,8 @@
  Lover Jet: RC F-22 Raptor
 </h2>
 &nbsp;
+ > A lover, not a fighter. </br> warning: Not to mock or make light of warefare
 
- > A lover, not a fighter. :warning: Not to mock or make light of any war that's happening now or ever.
 
 ### 📷 Pictures
 ### BOM
