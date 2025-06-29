@@ -8,6 +8,9 @@
 
 
 ### 📷 Pictures
+
+<img src="https://github.com/user-attachments/assets/89fb6050-bf16-4315-a596-80fc8254c4f5" width="500" />
+
 ### BOM
 |Qty| Device|	Link	|Cost	|
 |---|-----|--------|-------|
