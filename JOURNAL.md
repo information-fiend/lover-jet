@@ -61,7 +61,7 @@ TIME SPENT: 12 HOURS
 June 29, 2025
 ---
 *LOG #003:*
-
+thought the cad would take longer but fusion360 decided to grace me today. the pcb was haphazardly done which was a nightmare to get things symmetrical with the case. looks good til you look at the back lol. the case is around 
 
 <img width="500" src="https://github.com/user-attachments/assets/40cf66a8-13f2-4541-a86a-ff7d25c8d3fc" />
 <img width="500" src="![Screenshot 2025-06-29 at 1 25 49 PM](https://github.com/user-attachments/assets/a4512fbc-86c2-4f43-95f2-2b4248fd3698)"/>
