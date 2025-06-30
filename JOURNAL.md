@@ -61,13 +61,14 @@ TIME SPENT: 12 HOURS
 June 29, 2025
 ---
 *LOG #003:*
-thought the cad would take longer but fusion360 decided to grace me today. the pcb was haphazardly done which was a nightmare to get things symmetrical with the case. looks good til you look at the back lol. the case is around 
+thought the cad would take longer but fusion360 decided to grace me today. the pcb was haphazardly done which was a nightmare to get things symmetrical with the case. looks good til you look at the back lol. the case is around 155x86x32.5 mm. some troubles i ran into was making it look aesthetic, as well as the screws. i was originally going to make snap joints but didnt know what the material filment was gunna be. so im using M2 screws. and if it doesnt work then hot glue!! :p
+i had no idea how to make it more detailed or cuter, so i thought i'd just slap a sticker on it or paint it. i really wanna get caps for the joysticks!
+by this point i also made a page in the magazine, but didnt include that time in here. 
+i also want to do something to elevate this whole project but idkk. 
 
 <img width="500" src="https://github.com/user-attachments/assets/40cf66a8-13f2-4541-a86a-ff7d25c8d3fc" />
 <img width="500" src="![Screenshot 2025-06-29 at 1 25 49 PM](https://github.com/user-attachments/assets/a4512fbc-86c2-4f43-95f2-2b4248fd3698)"/>
 <img width="500" src="https://github.com/user-attachments/assets/819bbf01-1b4e-43f3-b1dc-c0ded01636a7"/>
-<img width="828" alt="Screenshot 2025-06-29 at 1 25 40 PM" src="https://github.com/user-attachments/assets/d01aa110-2355-4f41-96f1-5bd34c97f2cf" />
-
-
+<img width="500" alt="Screenshot 2025-06-29 at 1 25 40 PM" src="https://github.com/user-attachments/assets/d01aa110-2355-4f41-96f1-5bd34c97f2cf" />
 
 TIME SPENT: 6 HOURS
