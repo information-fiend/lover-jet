@@ -6,13 +6,16 @@
 
 > A lover, not a fighter. :warning: Not to mock or make light of warefare
 
+A 4-channel RC system consisting of a Arduino Nano-based transmitter and a cardboard F-22 Raptor jet powered by brushless propulsion. It uses NRF24L01+ transceivers for communication. Made this as an introduction to aerospace systems, more to come :)
+
 
 ### 📷 Pictures
 <img src="https://github.com/user-attachments/assets/89fb6050-bf16-4315-a596-80fc8254c4f5" width="300" />
 <img src="https://github.com/user-attachments/assets/ee65bfbd-a973-4c50-a7e8-d3b3867c260c" width="500" />
 <img src="https://github.com/user-attachments/assets/c3a3894b-8554-402e-84cb-da9c7abd985c" width="500" />
-
+<img src="https://github.com/user-attachments/assets/91838119-0dda-410a-8b5d-e7024edd8cae" width="500" />
 <img width="500" alt="Screenshot 2025-07-10 at 10 28 30 PM" src="https://github.com/user-attachments/assets/e5be03e6-ab12-4ff3-b080-43976d633dca" />
+(Cardboard jet hasnt been cut out yet)
 
 ### BOM
 |Qty| Device|	Link	|Cost	|
