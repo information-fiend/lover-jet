@@ -4,7 +4,7 @@ author: "info-fiend"
 description: "F-22 Raptor with transmitter"
 created_at: "2025-06-27"
 ---
-### :revolving_hearts: Total Time Spent: 26hrs
+### :revolving_hearts: Total Time Spent: 34hrs
 June 27, 2025
 ---
 *LOG #001:*
@@ -72,3 +72,14 @@ i also want to do something to elevate this whole project but idkk.
 <img width="500" alt="Screenshot 2025-06-29 at 1 25 40 PM" src="https://github.com/user-attachments/assets/d01aa110-2355-4f41-96f1-5bd34c97f2cf" />
 
 TIME SPENT: 6 HOURS
+
+July 11, 2025
+---
+*LOG #004:*
+wow where have i been? last time i finished up the case. while making up the BOM to submit, i realized i got the parts wrong on the plane + had to redesign the pcb. uhh i was first off using the wrong receiever. the battery on the transmitter had no regulator, the nrf module needs a 3.3v but it was just giving it 7.4v directly. whoops. added the same nrf receiver module so like... it matches? honestly im glad that i had to redo the design because it taught me that iterating is just a part of engineering. no avoiding it lol. uhh i made the firmware. added the libraries. prob have to make a new communication address. its kinda hard making up the firmware when you dont have the hardware </3
+
+<img width="500" alt="Screenshot 2025-07-11 at 11 05 53 AM" src="https://github.com/user-attachments/assets/c813f149-a319-460e-8fec-b77be38060a5" />
+<img width="500" alt="Screenshot 2025-07-11 at 10 35 35 AM" src="https://github.com/user-attachments/assets/dc1ea689-2d73-40ea-ab89-d560f8abb576" />
+<img width="500" alt="Screenshot 2025-07-10 at 10 28 30 PM" src="https://github.com/user-attachments/assets/69f1f7d6-29a9-44fa-bb91-b15dc47839c7" />
+
+TIME SPENT: 8 HOURS
