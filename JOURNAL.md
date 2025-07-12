@@ -81,5 +81,7 @@ wow where have i been? last time i finished up the case. while making up the BOM
 <img width="500" alt="Screenshot 2025-07-11 at 11 05 53 AM" src="https://github.com/user-attachments/assets/c813f149-a319-460e-8fec-b77be38060a5" />
 <img width="500" alt="Screenshot 2025-07-11 at 10 35 35 AM" src="https://github.com/user-attachments/assets/dc1ea689-2d73-40ea-ab89-d560f8abb576" />
 <img width="500" alt="Screenshot 2025-07-10 at 10 28 30 PM" src="https://github.com/user-attachments/assets/69f1f7d6-29a9-44fa-bb91-b15dc47839c7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a0d4490b-6cf9-4682-8472-5896fd2e6424" />
+
 
 TIME SPENT: 8 HOURS
