@@ -4,7 +4,7 @@
 </h2>
 &nbsp;
 
-> A lover, not a fighter. :warning: Not to mock or make light of warefare
+> A lover, not a fighter. :warning: Not to mock or make light of warfare
 
 A 4-channel RC system consisting of a Arduino Nano-based transmitter and a cardboard F-22 Raptor jet powered by brushless propulsion. It uses NRF24L01+ transceivers for communication. Made this as an introduction to aerospace systems, more to come :)
 
